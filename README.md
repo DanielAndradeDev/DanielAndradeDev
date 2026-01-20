@@ -5,11 +5,11 @@
 💼 Buscando oportunidade como Desenvolvedor Júnior
 
 ## 🎯 Sobre Mim
-Sou Daniel, 24 anos, formado como **técnico em Análise e Desenvolvimento de Sistemas em 2024**. Tenho experiência prática com **Python e Django**, tecnologias com as quais tenho maior afinidade e que utilizei em diversos projetos disponíveis no meu LinkedIn e GitHub.
+Sou Daniel, 24 anos, formado como técnico em Análise e Desenvolvimento de Sistemas em 2024. Tenho experiência prática com Python e Django, tecnologias com as quais tenho maior afinidade e que utilizei em diversos projetos disponíveis no meu LinkedIn e GitHub. Também possuo conhecimento em metodologias ágeis e processos de desenvolvimento, adquiridos com a orientação de um mentor sênior.
 
-Também possuo conhecimento em **metodologias ágeis** e processos de desenvolvimento, adquiridos com a orientação de um mentor sênior. Tenho experiência de **6 meses como estagiário em Técnico de Informática**, onde desenvolvi habilidades intermediárias em **WordPress** e soluções de suporte técnico N1.
+Atualmente, busco minha primeira oportunidade como Desenvolvedor Júnior, com o objetivo de aplicar meus conhecimentos, aprender novas tecnologias e me adaptar às necessidades do mercado. Além da formação acadêmica, tenho experiência de 6 meses como estagiário em Técnico de Informática e Técnico de Informática (N1), onde desenvolvi habilidades intermediárias em WordPress e soluções de suporte.
 
-Atualmente, busco minha **primeira oportunidade como Desenvolvedor Júnior**, com o objetivo de aplicar meus conhecimentos, aprender novas tecnologias e me adaptar às necessidades do mercado.
+Estou aberto a novas conexões e oportunidades para colaborar com equipes inovadoras e crescer na área de tecnologia.
 
 ## 🛠️ Tecnologias e Ferramentas
 
