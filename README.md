@@ -39,7 +39,7 @@ Estou aberto a novas conexões e oportunidades para colaborar com equipes inovad
 ## 🚀 Projetos em Destaque
 
 ### 💼 Python & Django
-[![Treinamento Python](https://github-readme-stats.vercel.app/api/pin/?username=DanielAndradeDev&repo=Treinamento-python&locale=pt-br)]([https://github.com/DanielAndradeDev/Treinamento-python](https://github.com/DanielAndradeDev/BOLAO-DA-RESENHA))
+[![Bolao da Resenha ](https://github.com/DanielAndradeDev/BOLAO-DA-RESENHA)]([https://github.com/DanielAndradeDev/BOLAO-DA-RESENHA)](https://github.com/DanielAndradeDev/BOLAO-DA-RESENHA))
 [![Python e Django](https://github-readme-stats.vercel.app/api/pin/?username=DanielAndradeDev&repo=python-e-django&locale=pt-br)](https://github.com/DanielAndradeDev/python-e-django)
 
 ### 🌐 Frontend & Web
