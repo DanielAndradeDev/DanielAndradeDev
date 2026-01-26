@@ -39,8 +39,13 @@ Estou aberto a novas conexões e oportunidades para colaborar com equipes inovad
 ## 🚀 Projetos em Destaque
 
 ### 💼 Python & Django
-[![Bolao da Resenha ](https://github.com/DanielAndradeDev/BOLAO-DA-RESENHA)]([https://github.com/DanielAndradeDev/BOLAO-DA-RESENHA)](https://github.com/DanielAndradeDev/BOLAO-DA-RESENHA))
-[![Python e Django](https://github-readme-stats.vercel.app/api/pin/?username=DanielAndradeDev&repo=python-e-django&locale=pt-br)](https://github.com/DanielAndradeDev/python-e-django)
+### 🏟️ Meus Projetos Principais
+
+<!-- CARD 1: BOLÃO DA RESENHA -->
+[![Bolão da Resenha - Django](https://github-readme-stats.vercel.app/api/pin/?username=DanielAndradeDev&repo=BOLAO-DA-RESENHA&theme=radical&show_owner=true)](https://github.com/DanielAndradeDev/BOLAO-DA-RESENHA)
+
+<!-- CARD 2: SISTEMA DE GESTÃO - NETCORENEXUS -->
+[![Sistema de Gestão - .NET](https://github-readme-stats.vercel.app/api/pin/?username=DanielAndradeDev&repo=NETCORENEXUS&theme=radical&show_owner=true)](https://github.com/DanielAndradeDev/NETCORENEXUS/tree/master/Desktop/COMPLETO/sistema_gestao)
 
 ### 🌐 Frontend & Web
 [![Portfólio](https://github-readme-stats.vercel.app/api/pin/?username=DanielAndradeDev&repo=meuPortfolio.github.io&locale=pt-br)](https://github.com/DanielAndradeDev/meuPortfolio.github.io)
